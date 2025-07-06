@@ -63,15 +63,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" />
 </div>
-
----
-
-### 📈 GitHub Stats *(Optional)*
-
-> Want a stats section? You can add this below if you want:
-
-```md
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=favourlpeters&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favourlpeters&layout=compact&theme=radical" height="170" />
-</div>
