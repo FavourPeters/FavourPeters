@@ -34,7 +34,7 @@
 
 ### 🛠 Tech Stack & Tools
 
-<div align="left">
+<div align="left" style="display:grid; grid-template-column: auto auto auto;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
